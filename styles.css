@@ -11,3 +11,8 @@ h1 {
 h3 {
     color: lightcoral;
 }
+
+body {
+    background-color: rgb(36, 36, 36);
+    opacity: 0.25;
+}
