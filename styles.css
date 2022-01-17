@@ -2,6 +2,8 @@
 
 .main-menu-title {
     color: green;
+    text-align: center;
+    font-family: 'lucida console';
 }
 
 h1 {
@@ -10,4 +12,10 @@ h1 {
 
 h3 {
     color: lightcoral;
+}
+
+.global-homepage {
+    outline: tomato;
+    background-color: rgba(0, 0, 255, 0.178);
+    font-size: 25px;
 }
